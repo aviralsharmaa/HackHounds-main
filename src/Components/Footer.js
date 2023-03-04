@@ -50,7 +50,7 @@ return (
 			<FooterLink href="#">
 			<i className="fab fa-instagram">
 				<span style={{ marginLeft: "10px" }}>
-				Instagram
+				Instagrams
 				</span>
 			</i>
 			</FooterLink>
